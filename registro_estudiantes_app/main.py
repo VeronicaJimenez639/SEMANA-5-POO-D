@@ -52,5 +52,5 @@ def main():
 
 
 # Punto de entrada del programa
-if __name__ == "__main__":   # Si este archivo es el principal, ejecuta main()
+if __name__ == "__main__":   # Si este archivo es el principal se ejecuta main()
     main()
