@@ -38,4 +38,4 @@ class Registro:
         for estudiante in self.estudiantes:
             if estudiante.es_becado:         # Si es_becado es True, entra aquí
                 contador_becados += 1        # Aumenta el contador en 1
-        return contador_becados      # Devuelve el total de estudiantes becados
+        return contador_becados      # Devuelve el total de estudiantes becados.
